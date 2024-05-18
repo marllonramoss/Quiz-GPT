@@ -1,21 +1,21 @@
 # 📚 Quiz GPT
 
-Um quiz interativo que utiliza a API do GPT-4 para gerar perguntas dinâmicas sobre tópicos escolhidos pelo usuário.
+An interactive quiz that uses the GPT-4 API to generate dynamic questions on topics chosen by the user.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Geração de perguntas dinâmicas usando a API do GPT-4
-- Interface de console interativa com Rich
-- Acumulação de pontos e feedback imediato das respostas
+- Dynamic question generation using the GPT-4 API
+- Interactive console interface with Rich
+- Points accumulation and immediate feedback on answers
 
-## 🛠️ Requisitos
+## 🛠️ Requirements
 
-- Python 3.7 ou superior
-- Biblioteca `rich`
-- Biblioteca `openai`
+- Python 3.7 or higher
+- `rich` library
+- `openai` library
 
-## 📦 Instalação
+## 📦 Installation
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
-   git clone https://github.com/seuusuario/quiz-gpt.git
+   git clone https://github.com/marllonramoss/Quiz-GPT.git
